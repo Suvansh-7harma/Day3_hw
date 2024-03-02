@@ -1,0 +1,59 @@
+.bodySection{
+    margin:0;
+    padding: 0;
+}
+.image{
+    width: 100vw;
+    height: 100vh;
+}
+.Banner{
+    margin-top: 2vh;
+    background-color: brown;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    margin-top: 3%;
+}
+.learnMore{
+    border-radius: 5px;
+    padding: 2%;
+    border: 2px solid rgb(235, 110, 110);
+}
+.contact{
+    border-radius: 5px;
+    padding: 2%;
+    border: 2px solid rgb(235, 110, 110);
+}
+.h1line{
+    color: aliceblue;
+    text-align: center;
+}
+.p1{
+    color: aliceblue;
+    text-align: center;
+}
+.buttons{
+    color: aliceblue;
+    text-align: center;
+}
+.three-lines{
+    padding:52px;
+    
+}
+.line1{
+    color:brown;
+    text-align: start;
+}
+.line2{
+    color: grey;
+    text-align: start;
+}
+.line3{
+    color: grey;
+    text-align: start;
+}
